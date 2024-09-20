@@ -35,10 +35,10 @@ To efficiently process the IP addresses, I converted the string of IPs into a Py
 Step 4: Iterate Through and Remove Unauthorized IPs - 
 The next step involved iterating through the list of IP addresses and removing those that matched any addresses on the "remove list." This automated step ensured only valid IP addresses remained in the allow-list.
 
-![8-Importing and Parsing a Text File in a Security-Related Scenario-4](https://github.com/user-attachments/assets/30c5ccca-5714-453a-8e40-5c0c0d34c3f3)
-
-
 Step 5: Update the File with the Revised IP List - 
 Finally, I updated the original file by writing the cleaned list of IP addresses back into the file, ensuring that the unauthorized IPs were no longer present.
+
+![8-Importing and Parsing a Text File in a Security-Related Scenario-4](https://github.com/user-attachments/assets/30c5ccca-5714-453a-8e40-5c0c0d34c3f3)
+
 
 This project enhanced my understanding of how file handling in Python can be applied to real-world security scenarios, such as managing access control lists. It also built on my cybersecurity knowledge by simulating the detection and removal of unauthorized network activity.

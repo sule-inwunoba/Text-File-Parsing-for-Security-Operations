@@ -1,4 +1,4 @@
-# Algorithm for File Updates in Python: Detection Lab Simulation
+# Algorithm for File Updates in Python
 
 ## Objective
 The goal of this project was to build an algorithm that updates an IP address allow-list by parsing the file and removing unauthorized IPs. This simulation is part of a broader study of security event management and detection in cybersecurity, providing practical experience in managing network restrictions through automation.
